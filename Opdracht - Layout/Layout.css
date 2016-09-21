@@ -1,0 +1,67 @@
+body{
+	background-color: lightblue;
+	font-family: sans-serif;
+	background-image: url(Destiny.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: bottom;
+}
+header{
+	margin: 0 auto;
+	background-color: teal;
+	padding: 0px;
+	padding-top: 15px;
+}
+h1{
+	margin-bottom: 0px;
+	padding-left: 500px;
+	font-family: sans-serif;
+}
+h2{
+	padding-left: 10px;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+
+a.readmore{
+	font-weight: bold;
+	color: darkgreen;
+}
+p.top-p{
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-left: 15px;
+}
+p{
+	padding-left: 10px;
+}
+p.bold{
+	font-weight: bold;
+}
+ul.top-menu{
+	background-color: black;
+	font-size: 20px;
+	word-spacing: 30px;
+}
+div.bio{
+	margin: 0 auto;
+	background-color: lightgreen;
+	width: 800px;
+}
+div.destiny{
+	margin: 0 auto;
+	background-color: lightgreen;
+	width: 800px;
+}
+div.kingdom{
+	margin: 0 auto;
+	background-color: lightgreen;
+	width: 800px;
+}
+div.Pokemon{
+	margin: 0 auto;
+	background-color: lightgreen;
+	width: 800px;
+}
