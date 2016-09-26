@@ -1,17 +1,14 @@
 body{
 	background-color: lightblue;
 	font-family: sans-serif;
-	background-image: url(PokemonGO.jpg);
-	background-size: 10%;
+	background-image: url(Destiny.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
 	background-position: bottom;
 }
 header{
 	margin: 0 auto;
-	background-image: url(PokemonGOHeader.jpg);
-	background-repeat: no-repeat;
-	background-size: 635px 235px;
-	background-color: black;
-	background-position: center top;
+	background-color: teal;
 	padding: 0px;
 	padding-top: 15px;
 }
@@ -21,7 +18,7 @@ h1{
 	font-family: sans-serif;
 }
 h2{
-	padding-left: 20px;
+	padding-left: 10px;
 }
 a{
 	color: white;
@@ -32,33 +29,40 @@ a.readmore{
 	font-weight: bold;
 	color: darkgreen;
 }
-p{
-	padding-left: 10px; 
-}
 p.top-p{
 	margin-top: 0px;
 	padding-top: 0px;
 	padding-left: 15px;
 }
+p{
+	padding-left: 10px;
+}
 p.bold{
 	font-weight: bold;
 }
-ul.top-menu{
+div.top-menu{
+	color: black;
 	background-color: black;
 	font-size: 20px;
 	word-spacing: 30px;
 }
-div.PokemonGO{
+div.bio{
 	margin: 0 auto;
 	background-color: lightgreen;
 	width: 800px;
 }
-object{
-	padding-left: 10px;
-	padding-right: 10px;
-	float: left;
+div.destiny{
+	margin: 0 auto;
+	background-color: lightgreen;
+	width: 800px;
 }
-img{
-	padding-left: 140px;
-	width: 500px;
+div.kingdom{
+	margin: 0 auto;
+	background-color: lightgreen;
+	width: 800px;
+}
+div.Pokemon{
+	margin: 0 auto;
+	background-color: lightgreen;
+	width: 800px;
 }
