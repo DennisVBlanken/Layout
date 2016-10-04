@@ -46,23 +46,44 @@ div.top-menu{
 	font-size: 20px;
 	word-spacing: 30px;
 }
+div.wrapper{
+	border-spacing: 50px;
+	display: table-row;
+	margin: 0 auto;
+	width: 900px;
+	background-color: white;
+}
 div.bio{
+	display: table-cell;
 	margin: 0 auto;
 	background-color: lightgreen;
-	width: 800px;
+	width: 500px;
 }
 div.destiny{
+	display: table-cell;
 	margin: 0 auto;
-	background-color: lightgreen;
-	width: 800px;
+	background-color: green;
+	width: 500px;
 }
 div.kingdom{
+	display: table-cell;
 	margin: 0 auto;
-	background-color: lightgreen;
-	width: 800px;
+	background-color: green;
+	width: 500px;
 }
 div.Pokemon{
+	display: table-cell;
 	margin: 0 auto;
 	background-color: lightgreen;
-	width: 800px;
+	width: 500px;
+}
+img.banner{
+	width: 130px;
+	height: 600px;
+}
+div.banner {
+	margin-right: 100px;
+	float: right;
+	width: 100px;
+	height: 400px;
 }

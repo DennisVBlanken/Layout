@@ -62,3 +62,13 @@ object{
 	padding-right: 10px;
 	float: left;
 }
+img.banner{
+	width: 130px;
+	height: 600px;
+}
+div.banner {
+	margin-right: 100px;
+	float: right;
+	width: 100px;
+	height: 400px;
+}
